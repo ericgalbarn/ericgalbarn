@@ -14,7 +14,7 @@
 - ⚡ Fun fact: **A music enthusiast (part-time musician i reckon) and a film buff (funny enough) on the side. Love sharing quirky stories and humour along with life stories also as a deeply empathetic person**
 
 ### Spotify Playing 🎧🎧
-[![Spotify](https://ericgalbarn.vercel.app/api/spotify)](https://open.spotify.com/user/31475ofewygcqtaaebctrpbltwgm)
+[![Spotify](https://spotify-now-playing-khaki-omega.vercel.app/api/spotify)](https://open.spotify.com/user/31475ofewygcqtaaebctrpbltwgm)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
