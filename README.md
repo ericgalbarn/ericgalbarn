@@ -82,6 +82,11 @@
 
 ### ⚡Recent GitHub Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com/ericgalbarn/Badges/pull/5) in [ericgalbarn/Badges](https://github.com/ericgalbarn/Badges)
+2. 💪 Opened PR [#5](https://github.com/ericgalbarn/Badges/pull/5) in [ericgalbarn/Badges](https://github.com/ericgalbarn/Badges)
+3. 🎉 Merged PR [#4](https://github.com/ericgalbarn/Badges/pull/4) in [ericgalbarn/Badges](https://github.com/ericgalbarn/Badges)
+4. 💪 Opened PR [#4](https://github.com/ericgalbarn/Badges/pull/4) in [ericgalbarn/Badges](https://github.com/ericgalbarn/Badges)
+5. 🎉 Merged PR [#3](https://github.com/ericgalbarn/Badges/pull/3) in [ericgalbarn/Badges](https://github.com/ericgalbarn/Badges)
 <!--END_SECTION:activity-->
 
 ---
