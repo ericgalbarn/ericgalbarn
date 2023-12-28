@@ -1,5 +1,7 @@
 ![MasterHead](https://64.media.tumblr.com/3e570496c39c50fcac1184ca5fba6004/tumblr_piwmfy6Auo1rnbw6mo1_1280.gifv)
-<h1 align="center">Hi 👋, I'm Eric Galbarn (Duc Nguyen)</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=35&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there+%F0%9F%91%8B;I'm+Eric+Galbarn;Welcome+to+my+Github+Profile+%F0%9F%A4%97" alt="Typing SVG" />
+</h1>
 <h3 align="center">A passionate and aspiring Frontend Developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzkxMDlscW5zcG55MjNvbXluYTd5ZGpkZ2tmcGU2NDdvNmt0aGZjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
