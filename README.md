@@ -13,8 +13,9 @@
 
 - ⚡ Fun fact: **A music enthusiast (part-time musician i reckon) and a film buff (funny enough) on the side. Love sharing quirky stories and humour along with life stories also as a deeply empathetic person**
 
-### Spotify Playing 🎧🎧
-[![Spotify](https://spotify-now-playing-khaki-omega.vercel.app/api/spotify)](https://open.spotify.com/user/31475ofewygcqtaaebctrpbltwgm)
+### I'm Currently Listening 🎧🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31475ofewygcqtaaebctrpbltwgm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31475ofewygcqtaaebctrpbltwgm&redirect=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
