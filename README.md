@@ -78,6 +78,13 @@
 
 <br/>
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+</details>
+
 <h3 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Thanks+For+Visiting!+%F0%9F%99%8C;Shoot+Me+A+Message+On+LinkedIn+;Or.....;Send+Me+An+Email+Instead;That's+Totally+Fine+%F0%9F%98%89;Always+Down+For+Collaboration+%F0%9F%98%81;Feel+Free.....;My+Friend!" alt="Typing SVG"/>
 </h3>
