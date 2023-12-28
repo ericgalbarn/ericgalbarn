@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericgalbarn&label=Profile%20views&color=0e75b6&style=flat" alt="ericgalbarn" /> </p>
 
-- I'm currently working on: [Trello Web](https://github.com/ericgalbarn/trello-web)
+💼 I'm currently working on: [Trello Web](https://github.com/ericgalbarn/trello-web)
 
-- 🌱 I’m currently learning: **React**
+🌱 I’m currently learning: **React**
 
-- 📫 How to reach me: **ericgalbarn@gmail.com**
+📫 How to reach me: **ericgalbarn@gmail.com**
 
-- ⚡ Fun fact: **A music enthusiast (part-time musician i reckon) and a film buff (funnily enough) on the side. Love sharing quirky stories and humour along with life stories also as a deeply empathetic person**
+⚡ Fun fact: **A music enthusiast (part-time musician i reckon) and a film buff (funnily enough) on the side. Love sharing quirky stories and humour along with life stories also as a deeply empathetic person**
 
 ### I'm Currently Listening 🎧🎧
 
