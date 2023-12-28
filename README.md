@@ -1,6 +1,6 @@
 ![MasterHead](https://64.media.tumblr.com/3e570496c39c50fcac1184ca5fba6004/tumblr_piwmfy6Auo1rnbw6mo1_1280.gifv)
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=35&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there+%F0%9F%91%8B;I'm+Eric+Galbarn;Welcome+to+my+Github+Profile+%F0%9F%A4%97" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there+%F0%9F%91%8B;I'm+Eric+Galbarn;Welcome+to+my+Github+Profile+%F0%9F%A4%97" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate and aspiring Frontend Developer from Vietnam</h3>
@@ -56,7 +56,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ericgalbarn/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -75,5 +75,11 @@
 <br/><br/>
 
 <hr/>
+
+<br/>
+
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Thanks+For+Visiting!+%F0%9F%99%8C;Shoot+Me+A+Message+On+LinkedIn+;Or.....;Send+Me+An+Email+Instead;That's+Totally+Fine+%F0%9F%98%89;Always+Down+For+Collaboration+%F0%9F%98%81;Feel+Free.....;My+Friend!"/>
+</h3>
 
 <br/>
