@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **ericgalbarn@gmail.com**
 
-- ⚡ Fun fact: **A music enthusiast (part-time musician i reckon) and a film buff (funny enough) on the side. Love sharing quirky stories and humour along with life stories also as a deeply empathetic person**
+- ⚡ Fun fact: **A music enthusiast (part-time musician i reckon) and a film buff (funnily enough) on the side. Love sharing quirky stories and humour along with life stories also as a deeply empathetic person**
 
 ### I'm Currently Listening 🎧🎧
 
