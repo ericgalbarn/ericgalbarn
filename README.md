@@ -73,15 +73,13 @@
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ericgalbarn&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ericgalbarn&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<br/>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </div>
 
-<br/><br/>
-
-<hr/>
-
 <br/>
-
----
+<br/>
 
 ### ⚡Recent GitHub Activity
 <!--START_SECTION:activity-->
