@@ -83,11 +83,11 @@
 
 ### ⚡Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/ericgalbarn/Trello_web/pull/21) in [ericgalbarn/Trello_web](https://github.com/ericgalbarn/Trello_web)
-2. 💪 Opened PR [#21](https://github.com/ericgalbarn/Trello_web/pull/21) in [ericgalbarn/Trello_web](https://github.com/ericgalbarn/Trello_web)
-3. 🎉 Merged PR [#20](https://github.com/ericgalbarn/Trello_web/pull/20) in [ericgalbarn/Trello_web](https://github.com/ericgalbarn/Trello_web)
-4. 💪 Opened PR [#20](https://github.com/ericgalbarn/Trello_web/pull/20) in [ericgalbarn/Trello_web](https://github.com/ericgalbarn/Trello_web)
-5. 🎉 Merged PR [#19](https://github.com/ericgalbarn/Trello_web/pull/19) in [ericgalbarn/Trello_web](https://github.com/ericgalbarn/Trello_web)
+1. 🎉 Merged PR [#22](https://github.com/ericgalbarn/Trello_web/pull/22) in [ericgalbarn/Trello_web](https://github.com/ericgalbarn/Trello_web)
+2. 💪 Opened PR [#22](https://github.com/ericgalbarn/Trello_web/pull/22) in [ericgalbarn/Trello_web](https://github.com/ericgalbarn/Trello_web)
+3. 🎉 Merged PR [#21](https://github.com/ericgalbarn/Trello_web/pull/21) in [ericgalbarn/Trello_web](https://github.com/ericgalbarn/Trello_web)
+4. 💪 Opened PR [#21](https://github.com/ericgalbarn/Trello_web/pull/21) in [ericgalbarn/Trello_web](https://github.com/ericgalbarn/Trello_web)
+5. 🎉 Merged PR [#20](https://github.com/ericgalbarn/Trello_web/pull/20) in [ericgalbarn/Trello_web](https://github.com/ericgalbarn/Trello_web)
 <!--END_SECTION:activity-->
 
 ---
