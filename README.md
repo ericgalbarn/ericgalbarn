@@ -32,7 +32,6 @@
 
 </br>
 
-<img align="center" alt="Hot Fuzz" width="100%" src="https://images.squarespace-cdn.com/content/v1/6146224245cef54e6a945f5c/6362f5fe-be0e-49a9-820a-d1e3c512c390/hot+fuzz+action+shot.gif">
 
 <div align="center">
 
