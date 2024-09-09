@@ -12,7 +12,7 @@
 
 <div align="center">
   
-💼 I'm currently working on: [A plan-making website](https://github.com/ericgalbarn/Trello-web)
+💼 I'm currently working on: [A plan-making website](https://github.com/ericgalbarn/Trello_web)
 
 🌱 I’m currently learning: **React,Tailwind,Vite**
 
