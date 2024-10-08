@@ -82,7 +82,7 @@
 
 ### ⚡Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/ericgalbarn/Trello_web/pull/24) in [ericgalbarn/Trello_web](https://github.com/ericgalbarn/Trello_web)
+1. 💪 Opened PR [#2](https://github.com/NgvGiang/BloggingWebApp/pull/2) in [NgvGiang/BloggingWebApp](https://github.com/NgvGiang/BloggingWebApp)
 2. 💪 Opened PR [#24](https://github.com/ericgalbarn/Trello_web/pull/24) in [ericgalbarn/Trello_web](https://github.com/ericgalbarn/Trello_web)
 3. 🎉 Merged PR [#23](https://github.com/ericgalbarn/Trello_web/pull/23) in [ericgalbarn/Trello_web](https://github.com/ericgalbarn/Trello_web)
 4. 💪 Opened PR [#23](https://github.com/ericgalbarn/Trello_web/pull/23) in [ericgalbarn/Trello_web](https://github.com/ericgalbarn/Trello_web)
