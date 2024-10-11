@@ -82,10 +82,10 @@
 
 ### ⚡Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/NgvGiang/BloggingWebApp/pull/3) in [NgvGiang/BloggingWebApp](https://github.com/NgvGiang/BloggingWebApp)
-2. 💪 Opened PR [#2](https://github.com/NgvGiang/BloggingWebApp/pull/2) in [NgvGiang/BloggingWebApp](https://github.com/NgvGiang/BloggingWebApp)
-3. 🎉 Merged PR [#23](https://github.com/ericgalbarn/Trello_web/pull/23) in [ericgalbarn/Trello_web](https://github.com/ericgalbarn/Trello_web)
-4. 💪 Opened PR [#23](https://github.com/ericgalbarn/Trello_web/pull/23) in [ericgalbarn/Trello_web](https://github.com/ericgalbarn/Trello_web)
+1. ❌ Reopened PR [#3](https://github.com/NgvGiang/BloggingWebApp/pull/3) in [NgvGiang/BloggingWebApp](https://github.com/NgvGiang/BloggingWebApp)
+2. ❌ Closed PR [#3](https://github.com/NgvGiang/BloggingWebApp/pull/3) in [NgvGiang/BloggingWebApp](https://github.com/NgvGiang/BloggingWebApp)
+3. 💪 Opened PR [#3](https://github.com/NgvGiang/BloggingWebApp/pull/3) in [NgvGiang/BloggingWebApp](https://github.com/NgvGiang/BloggingWebApp)
+4. 💪 Opened PR [#2](https://github.com/NgvGiang/BloggingWebApp/pull/2) in [NgvGiang/BloggingWebApp](https://github.com/NgvGiang/BloggingWebApp)
 5. 🎉 Merged PR [#22](https://github.com/ericgalbarn/Trello_web/pull/22) in [ericgalbarn/Trello_web](https://github.com/ericgalbarn/Trello_web)
 <!--END_SECTION:activity-->
 
