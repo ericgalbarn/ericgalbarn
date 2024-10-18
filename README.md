@@ -82,11 +82,11 @@
 
 ### ⚡Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/NgvGiang/BloggingWebApp/pull/3) in [NgvGiang/BloggingWebApp](https://github.com/NgvGiang/BloggingWebApp)
-2. ❌ Reopened PR [#3](https://github.com/NgvGiang/BloggingWebApp/pull/3) in [NgvGiang/BloggingWebApp](https://github.com/NgvGiang/BloggingWebApp)
-3. ❌ Closed PR [#3](https://github.com/NgvGiang/BloggingWebApp/pull/3) in [NgvGiang/BloggingWebApp](https://github.com/NgvGiang/BloggingWebApp)
-4. 💪 Opened PR [#3](https://github.com/NgvGiang/BloggingWebApp/pull/3) in [NgvGiang/BloggingWebApp](https://github.com/NgvGiang/BloggingWebApp)
-5. 💪 Opened PR [#2](https://github.com/NgvGiang/BloggingWebApp/pull/2) in [NgvGiang/BloggingWebApp](https://github.com/NgvGiang/BloggingWebApp)
+1. 💪 Opened PR [#4](https://github.com/NgvGiang/BloggingWebApp/pull/4) in [NgvGiang/BloggingWebApp](https://github.com/NgvGiang/BloggingWebApp)
+2. ❌ Closed PR [#3](https://github.com/NgvGiang/BloggingWebApp/pull/3) in [NgvGiang/BloggingWebApp](https://github.com/NgvGiang/BloggingWebApp)
+3. ❌ Reopened PR [#3](https://github.com/NgvGiang/BloggingWebApp/pull/3) in [NgvGiang/BloggingWebApp](https://github.com/NgvGiang/BloggingWebApp)
+4. ❌ Closed PR [#3](https://github.com/NgvGiang/BloggingWebApp/pull/3) in [NgvGiang/BloggingWebApp](https://github.com/NgvGiang/BloggingWebApp)
+5. 💪 Opened PR [#3](https://github.com/NgvGiang/BloggingWebApp/pull/3) in [NgvGiang/BloggingWebApp](https://github.com/NgvGiang/BloggingWebApp)
 <!--END_SECTION:activity-->
 
 ---
