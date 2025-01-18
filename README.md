@@ -12,10 +12,6 @@
 
 <div align="center">
   
-💼 I'm currently working on: [A plan-making website](https://github.com/ericgalbarn/Trello_web)
-
-🌱 I’m currently learning: **React,Tailwind,Vite**
-
 ⚡ Fun fact: **Introverts aren’t risk-averse, but they are more careful and calculated about what risks they choose to take**
 </div>
 <div align="center">
