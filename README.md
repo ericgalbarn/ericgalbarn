@@ -17,7 +17,6 @@
 <div align="center">
   
 <h3 align="center">Connect with me:</h3>
-<a href="https://www.instagram.com/ericgalbarn/" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/128/1384/1384063.png" alt="ericgalbarn" height="32" width="32" /></a>  
 <a href="mailto:ericgalbarn@gmail.com" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/gmail-icon-1024x1024-09wrt8am.png" alt="ericgalbarn" height="32" width="32" /></a>  
 <a href="https://codepen.io/ericgalbarn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ericgalbarn" height="30" width="40" /></a>
 <a href="https://dev.to/ericgalbarn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ericgalbarn" height="30" width="40" /></a>
